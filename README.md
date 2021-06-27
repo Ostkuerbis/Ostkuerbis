@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ostkuerbis
-- 👀 I’m interested in almost everything
+- 👀 I’m interested in almost everything and currently studing Mathmatics.
 - 🌱 I’m currently learning Python
 
 <!---
